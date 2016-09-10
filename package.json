@@ -1,0 +1,34 @@
+{
+  "name": "cordova-deviceready",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Listen to cordova deviceready in any environment",
+  "license": "MIT",
+  "repository": "ajoslin/cordova-deviceready",
+  "author": {
+    "name": "Andrew Joslin",
+    "email": "andrewtjoslin@gmail.com",
+    "url": "ajoslin.com"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "cordova",
+    "deviceready",
+    "ready"
+  ],
+  "devDependencies": {
+    "dom-event-target": "~1.0.0",
+    "global": "~4.3.0",
+    "proxyquire": "~1.7.10",
+    "standard": "^7.0.0",
+    "tape": "^4.0.0"
+  },
+  "files": [
+    "*.js"
+  ],
+  "dependencies": {
+    "global": "~4.3.0"
+  }
+}
