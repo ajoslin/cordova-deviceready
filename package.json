@@ -1,7 +1,7 @@
 {
   "name": "cordova-deviceready",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Listen to cordova deviceready in any environment",
   "license": "MIT",
   "repository": "ajoslin/cordova-deviceready",
